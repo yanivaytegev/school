@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://YANIVAYTEGEV:95248367pop@schooldb-ar2xm.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "2pacstilalive"
+}
