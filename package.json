@@ -8,7 +8,7 @@
     "concurrently": "^5.0.2",
     "config": "^3.2.5",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.8.7",
     "validator": "^12.1.0"
